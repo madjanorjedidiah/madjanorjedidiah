@@ -4,7 +4,7 @@
 
 💬 Ask me about anything on Software Development
 
-- 🔭 I’m currently researching  
+- 🔭 I’m currently researching distributed systems, micorservices and data intensive applications.
 - 📫 How to reach me: jmadjanor6@gmail.com
 - 😄 Pronouns: Programmer/He/Him/His
 - ⚡ Fun fact: I am ready to get my hands dirty with some good challenge.

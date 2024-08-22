@@ -1,4 +1,4 @@
-🔭 Backend Engineer with an eagerness to learn anything and everything.
+🔭 Data Engineer with an eagerness to learn anything and everything.
 
 👯 I’m looking to collaborate on all things(Python, JavaScript, Sql)
 

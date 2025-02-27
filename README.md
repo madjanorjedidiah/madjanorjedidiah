@@ -2,13 +2,12 @@
 
 👯 I’m looking to collaborate on all things(Python, JavaScript, Sql)
 
-💬 Ask me about anything on Software Development
+💬 Ask me about anything on Data Analytics
 
 - 🔭 I’m currently researching distributed systems, micorservices and data intensive applications.
 - 📫 How to reach me: jmadjanor6@gmail.com
 - 😄 Pronouns: Programmer/He/Him/His
 - ⚡ Fun fact: I am ready to get my hands dirty with some good challenge.
-- 📝 [Resume](cv_backend.pdf)
 
 ⚡ Fun Quote: Be Ye Acquirers of Knowledge.
 
